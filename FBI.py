@@ -27,7 +27,7 @@ except ImportError:
 	print W + ' '
 	print ('F B I').center(44)
 	print R + 'Recode by : Mr.J4rzz'.center(44)
-	print 'Facebook  : fb.me/fajar.adriansyah.946'.center(44)
+	print 'Facebook  : fb.me/Mr.J4rzz'.center(44)
 	print 'Git Hub   : https://github.com/J4rzz'.center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
@@ -60,7 +60,7 @@ def baliho():
 		print ' ' + W
 		print ('F B I').center(44)
 		print R + 'Recode by : Mr.J4rzz'.center(44)
-		print 'Facebook  : fb.me/fajar.adriansyah.946'.center(44)
+		print 'Facebook  : fb.me/Mr.J4rzz'.center(44)
 		print 'Git Hub   : https://github.com/J4rrz'.center(44)
 		print (W + '     [' + G +'Facebook Information'+ W + ']')
 		print ' '
@@ -74,7 +74,7 @@ def show_program():
 
     Author     : Hak9
     Recode by  : Mr.J4rzz
-           Fb  : fb.me/fajar.adriansyah.946
+           Fb  : fb.me/Mr.J4rzz
     Name       : Facebook Information
     Version    : Full Version
     Date       : 08/04/2019
